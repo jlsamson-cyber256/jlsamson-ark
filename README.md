@@ -35,7 +35,7 @@ Still learning, still building — one tendonitis at a time huhuhuhu.
 ## Connect
 
 - 💼 [LinkedIn](www.linkedin.com/in/johnleighsamson)
-- 
+- SimpleX (https://smp10.simplex.im/a#NNitDjVfvU1K0xwh--eGumUWdUgGpRzuNhUQldOMNtY)
 
 ---
 
