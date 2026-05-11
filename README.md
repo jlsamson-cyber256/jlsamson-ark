@@ -1,7 +1,7 @@
 # Hi, I'm Leigh 👋
 
 BSIT student majoring in Network and Cybersecurity at Mapua Malayan Digital College.
-Still learning, still building — one tendonitis at a time huhuhuhu.
+Still learning, still building — one tendonitis at a time :-(.
 
 ---
 
@@ -13,7 +13,7 @@ Still learning, still building — one tendonitis at a time huhuhuhu.
 
 ---
 
-## My Humble Certifications huhuhuhu
+## My Humble Certifications 0:-)
 
 - Google Cybersecurity Professional Certificate
 - Fortinet Certified Associate (FCA)
