@@ -13,11 +13,11 @@
 
         :root {
             --green: #39ff6a;
-            --dim: #a0a0a0;
+            --dim: #ffffff;
             --bg: #0d0d0d;
             --card: #111111;
             --border: #1e1e1e;
-            --text: #e0e0e0;
+            --text: #ffffff;
         }
 
         body {
@@ -231,7 +231,7 @@
                 <p>Bloatwares you hate them, i hate them, who knows maybe somebody loves them but still a bloatware.
 <br>Bloatware refers to unwanted pre-installed software on devices, often included by manufacturers or carriers, that consumes system resources without providing meaningful value. It can slow down device performance and may be difficult to remove.</p>
 
-                <p>So How to Remove Bloatware?
+                <h2>So How to Remove Bloatware?</h2>
                 <br>It's easy actually in ADB just list all the relevant packages
                 <br>adb shell pm list packages -3 #list all 3rd-party apps you have installed, helpful if you have granularity on 3rd-party installs
                 <br>adb shell pm uninstall -k --user 0 [com.apkhere]</p>
@@ -240,6 +240,10 @@
     <li>2. activate authorize usb debug bridge</li>
     <li>3. toggle remove adb timeout authorization, only for that session</li>
 </ul>
+                <img src="apk-list1.png" alt="APK list screenshot" style="width:100%; border-radius:4px;">
+                <!--
+                <img src="apk-list1.png" alt="APK list 1" style="width:100%; border-radius:4px;">
+<img src="apk-list2.png" alt="APK list 2" style="width:100%; border-radius:4px;">
 
                 <!--<p>Choose a correct VPN—the heavier the marketing, the lower the protection.</p>
             </div>
@@ -270,12 +274,19 @@
 
                 <h2>Data Protection</h2>
                 <p>Protection is held by the vendor. The vendor has the responsibility to protect its users' data, provide proper disclosures and transparency. This separation differentiates privacy marketers from privacy practitioners.</p>
+-->
 
+                <!--
+<ol>
+    <li>item one</li>
+    <li>item two</li>
+</ol>
+                -->
                 <blockquote>Stop Telemetry, Protect your phone memory, nuke em now.</blockquote>
             </div>
         </section>
     </main>
--->
+
     <footer>
         <p>&copy;built with github pages</p>
     </footer>
